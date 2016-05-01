@@ -29,9 +29,12 @@ nav {
   padding:7% 0;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-duration: 3s;
-  -ms-animation-iteration-count: 3;
-  -moz-animation-iteration-count: 3;
-  -o-animation-iteration-count: 3;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-duration: 3s;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-duration: 3s;
+  -o-animation-iteration-count: infinite;
+  -o-animation-duration: 3s;
 }
 
 #cloud1  { 
@@ -41,9 +44,9 @@ nav {
   float:left;
   padding:0;
   -webkit-animation-duration: 3s;
-  -ms-animation-iteration-count: 3;
-  -moz-animation-iteration-count: 3;
-  -o-animation-iteration-count: 3;
+  -ms-animation-duration: 3s;
+  -moz-animation-duration: 3s;
+  -o-animation-duration: 3s;
 }
 
 #cloud2  { margin: 22em  -25em;
@@ -52,9 +55,9 @@ nav {
   float:right;
   padding:0;
   -webkit-animation-duration: 3s;
-  -ms-animation-iteration-count: 3;
-  -moz-animation-iteration-count: 3;
-  -o-animation-iteration-count: 3;
+  -ms-animation-duration: 3s;
+  -moz-animation-duration: 3s;
+  -o-animation-duration: 3s;
 }
 
 /*---------HEADER---------*/
@@ -207,10 +210,10 @@ p {
   margin: 5% auto;
   padding:1em 0 0 0;
   max-width: 400px;
-  -webkit-animation-iteration-count: 3;
-  -ms-animation-iteration-count: 3;
-  -moz-animation-iteration-count: 3;
-  -o-animation-iteration-count: 3;
+  -webkit-animation-iteration-count: 5;
+  -ms-animation-iteration-count: 5;
+  -moz-animation-iteration-count: 5;
+  -o-animation-iteration-count: 5;
     
 }
 
