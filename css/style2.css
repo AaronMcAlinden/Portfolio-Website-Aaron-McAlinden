@@ -49,8 +49,8 @@ nav {
   -o-animation-duration: 3s;
 }
 
-#cloud2  { margin: 22em  -25em;
-  width:48em;
+#cloud2  { margin: -5em 0 0 0 ;
+  width:30em;
   display: block;
   float:right;
   padding:0;
