@@ -23,10 +23,10 @@ nav {
 }
 
 #logo  {
-  margin: auto;
-  width:15em;
+  margin:auto;
+  width:30%;
   display: block;
-  padding: 0;
+  float: clear;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-duration: 3s;
   -ms-animation-iteration-count: infinite;
@@ -38,9 +38,9 @@ nav {
 }
 
 #cloud1  { 
-  margin:0 0em;
+  margin:0;
   width:30em;
-  display: inline;
+  display: block;
   float:left;
   padding:0;
   -webkit-animation-duration: 3s;
@@ -49,9 +49,9 @@ nav {
   -o-animation-duration: 3s;
 }
 
-#cloud2  { margin: -5em 0 0 0 ;
+#cloud2  { margin: 0;
   width:30em;
-  display: inline;
+  display: block;
   float:right;
   padding:0;
   -webkit-animation-duration: 3s;
@@ -70,8 +70,10 @@ header  {
   background-size: cover;
   position: top;
   padding-bottom: 25% ;
+  margin: 0;
   
 }
+
 
 nav ul  {
   list-style: none;
@@ -116,7 +118,6 @@ li  { list-style: none;}
 section {
   margin:auto;
   max-width: 940px;
-  
 }
 
 
