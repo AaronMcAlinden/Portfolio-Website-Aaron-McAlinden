@@ -23,7 +23,7 @@ nav {
 }
 
 #logo  {
-  margin: 0 auto;
+  margin: 0;
   width:15em;
   display: block;
   padding:7% 0;
@@ -38,9 +38,9 @@ nav {
 }
 
 #cloud1  { 
-  margin:0 -25em;
-  width:48em;
-  display: block;
+  margin:0 0em;
+  width:30em;
+  display: inline;
   float:left;
   padding:0;
   -webkit-animation-duration: 3s;
