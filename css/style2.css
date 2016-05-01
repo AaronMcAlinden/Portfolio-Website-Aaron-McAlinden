@@ -1,3 +1,8 @@
+html  {
+    overflow-x: hidden;
+}
+
+
 a {
   text-decoration: none;
   color: inherit;
@@ -8,6 +13,7 @@ a {
 
 body{ 
 color: #1a333a;
+overflow: hidden;
 
 
 
