@@ -149,7 +149,7 @@ h1  {
 }
 
 footer h1 {
-  padding-top: 6.5em;
+  padding-top: 8em;
   line-height: 1em;
   font-size: 2.25em;
 }
@@ -274,7 +274,7 @@ footer ul {
   text-align: center;
 }
 
-footer li {padding:2em 0;/*Removes default padding on ul */
+footer li {padding:1.5em 0;/*Removes default padding on ul */
   margin: 0 3%;
   width:10%;
   max-width: 3em;
@@ -285,9 +285,10 @@ footer li {padding:2em 0;/*Removes default padding on ul */
 
 footer li:hover {
   -webkit-transform: scale(1.2);
-    -ms-transform: scale(1.2);
+    -ms-transsform: scale(1.2);
         transform: scale(1.2);
         transition: .5s;
         opacity: 1;
       
 }
+
