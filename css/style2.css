@@ -23,10 +23,10 @@ nav {
 }
 
 #logo  {
-  margin: 0;
+  margin: auto;
   width:15em;
   display: block;
-  padding:7% 0;
+  padding: 0;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-duration: 3s;
   -ms-animation-iteration-count: infinite;
@@ -51,7 +51,7 @@ nav {
 
 #cloud2  { margin: -5em 0 0 0 ;
   width:30em;
-  display: block;
+  display: inline;
   float:right;
   padding:0;
   -webkit-animation-duration: 3s;
@@ -273,11 +273,15 @@ footer li {padding:2em 0;/*Removes default padding on ul */
   width:10%;
   max-width: 3em;
   display:inline-block;
-  text-decoration: none;}
+  text-decoration: none;
+  opacity: .8;
+}
 
 footer li:hover {
   -webkit-transform: scale(1.2);
     -ms-transform: scale(1.2);
         transform: scale(1.2);
         transition: .5s;
+        opacity: 1;
+      
 }
