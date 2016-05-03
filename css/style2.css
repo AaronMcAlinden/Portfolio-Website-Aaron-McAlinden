@@ -234,12 +234,7 @@ p {
   width: 90%;
   margin: 5% auto;
   padding:1em 0 0 0;
-  max-width: 400px;
-  -webkit-animation-iteration-count: 3;
-  -ms-animation-iteration-count: 3;
-  -moz-animation-iteration-count: 3;
-  -o-animation-iteration-count: 3;
-    
+  max-width: 400px;    
 }
 
 .icon {
