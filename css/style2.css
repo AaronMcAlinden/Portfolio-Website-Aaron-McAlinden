@@ -199,7 +199,6 @@ p {
 }
 
 #gallery p:hover  {
-  display:block;
   opacity: 1;
 }
 
